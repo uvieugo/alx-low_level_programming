@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - Checks if a random number is positive, negative or zero.
  *
@@ -14,7 +15,7 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-		printf("%d d is positive\n", n);
+		printf("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
