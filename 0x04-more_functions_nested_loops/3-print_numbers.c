@@ -3,7 +3,7 @@
 /**
  * print_numbers - function that prints numbers from 0 to 9
  *
- * Return:  a *  b
+ * Return:  void
  */
 
 void print_numbers(void)
