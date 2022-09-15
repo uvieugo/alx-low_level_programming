@@ -3,12 +3,12 @@
 /**
  * print_line - function that draws a straight line
  * @n: number of characters
- * Return:  char
+ * Return:  void
  */
 
-int print_line(int n)
+void print_line(int n)
 {
-	int i
+	int i;
 
 	for (i = 0; i <= n; i++)
 	{
